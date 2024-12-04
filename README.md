@@ -1,6 +1,6 @@
-![👋 Hi, my name is Shuvo Anirban Roy](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-<br>
 <div align="center">
+
+ ![👋 Hi, my name is Shuvo Anirban Roy](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 &emsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1bcdff&size=30&lines=Hi,Visitor!+Welcome+to+my+Github+profile!;I'm+a+Experienced+Full+Stack+Developer+Frontend+Specialist+React+&+Mobile+App+Developer)](https://git.io/typing-svg)
